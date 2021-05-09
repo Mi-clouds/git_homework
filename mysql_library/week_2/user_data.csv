@@ -1,0 +1,51 @@
+library_card_no,first_name,last_name,address,borough,postal,telephone,date_of_birth,email,type_of_library_user,no_of_books_borrowed,Age,family_id,disability
+937562048,Aleshia,Tomkiewicz,41 Benedict St,Aldborough,IG2 7QG,01835-703597,1963-01-18,atomkiewicz@hotmail.com,volunteer,1,58,1,N/A
+226179655,Evan,Zigomalas,96 King St," Hammersmith,",W6 0QW,01937-864715,2014-05-31,evan.zigomalas@gmail.com,junior,1,6,2,N/A
+658975511,France,Andrade,61 Miriam St,Abbey Road,NW8 9BD,01347-368222,2001-02-22,france.andrade@hotmail.com,HE-student,8,20,3,N/A
+609073282,Ulysses,Mcwalters,5382 Redfern St,West End,W1J 0QH,01912-771311,1941-07-01,ulysses@hotmail.com,staff,0,79,4,Muscular Dystrophy
+144521065,Tyisha,Veness,7901 Beech St,St. Helier,SM4 5PY,01547-429341,2001-12-01,tyisha.veness@hotmail.com,HE-student,3,19,5,N/A
+323795012,Eric,Rampy,684 Cotswold St,Victoria,E9 7NG,01969-886290,1975-01-06,erampy@rampy.co.uk,standard,5,46,6,N/A
+850601774,Marg,Grasmick,231 Wordsworth St,Harrow Weald,HA3 6TH,01865-582516,1969-09-07,marg@hotmail.com,volunteer,3,51,7,N/A
+908505381,Laquita,Hisaw,76 Paulton St,Lancaster Gate,W2 3JT,01746-394243,2005-09-15,laquita@yahoo.com,volunteer,0,15,8,N/A
+116380431,Lura,Manzella,5 Bentinck St,Churchill,SW1V 3EW,01907-538509,1956-09-18,lura@hotmail.com,staff,1,64,9,N/A
+430709311,Yuette,Klapec,7 Canton St,Mildmay,N1 4RF,01903-649460,1986-02-15,yuette.klapec@klapec.co.uk,standard,4,35,10,N/A
+563222737,Fernanda,Writer,91 Ludlow St,Woodhouse,N12 0EF,01630-202053,1991-01-26,fernanda@writer.co.uk,standard,2,30,11,Visual Impairment
+380200977,Charlesetta,Erm,2476 Marsh St,Markhouse,E17 8NP,01276-816806,1997-07-12,charlesetta_erm@gmail.com,HE-student,2,23,12,N/A
+635942168,Corrinne,Jaret,1 Jervis St,High Barnet,EN5 4LH,01625-932209,1980-10-01,corrinne_jaret@gmail.com,staff,9,40,13,N/A
+720350341,Niesha,Bruch,2015 Suburban Rd,Springfield,N16 6TD,01874-856950,2005-04-15,niesha.bruch@yahoo.com,junior,2,15,14,N/A
+570119135,Rueben,Gastellum,9283 Ruth St #81,Dormers Wells,UB1 2FH,01976-755279,1997-05-24,rueben_gastellum@gastellum.co.uk,HE-student,7,23,15,Other Neurological Condition
+854598297,Michell,Throssell,62 Margaret St,Royal Hospital,SW3 4ND,01967-580851,1980-01-21,mthrossell@throssell.co.uk,standard,1,41,16,Depression
+407514073,Edgar,Kanne,457 Broadway,Enfield,N21 6RE,01326-532337,1970-06-16,edgar.kanne@yahoo.com,standard,2,50,17,N/A
+922508505,Dewitt,Throssell,62 Margaret St,Royal Hospital,SW3 4ND,01253-528327,2011-05-09,dewitt.julio@hotmail.com,junior,1,9,16,N/A
+431735908,Charisse,Spinello,76 Dawber St #6,Blackheath Westcombe,SE3 7JY,01719-831436,1968-12-31,charisse_spinello@spinello.co.uk,staff,5,52,18,N/A
+445122059,Mee,Lapinski,52 Trowbridge St,Knightsbridge and Belgravia,SW1X 9HB,01578-287816,2015-03-19,mee.lapinski@yahoo.com,junior,3,6,19,N/A
+546066240,Peter,Gutierres,3347 Lawrence Rd #456,Haverstock,NW5 4EU,01842-767201,2003-02-05,peter_gutierres@yahoo.com,volunteer,0,18,20,Anxiety
+713336435,Octavio,Salvadore,2 Kirkdale Rd,Canning Town North,E16 4NF,01552-709248,1994-09-21,octavio.salvadore@yahoo.com,standard,0,26,21,N/A
+152129295,Martha,Teplica,588 Venmore St,Twickenham Riverside,TW1 2QH,01677-684257,2004-09-29,mteplica@teplica.co.uk,HE-student,2,16,22,N/A
+257605088,Tamesha,Veigel,5588 Lake St #903,Crystal Palace,SE19 2TJ,01217-342071,2005-07-19,tveigel@veigel.co.uk,junior,1,15,23,N/A
+431520322,Tess,Sitra,5 Gainsborough Rd,Newington,SE1 6EH,01473-229124,1974-09-01,tess_sitra@hotmail.com,standard,0,46,24,N/A
+199948820,Leonard,Kufner,9960 Gilroy Rd,Woodhouse,N12 9JT,01230-623547,2000-10-20,lkufner@kufner.co.uk,HE-student,1,20,25,N/A
+356575562,Svetlana,Tauras,90 Victoria Road,Kilburn,E37 4BP,01781-827317,1966-07-02,svetlana_tauras@tauras.co.uk,standard,1,54,26,N/A
+749398180,Reed,Throssell,62 Margaret St,Royal Hospital,SW3 4ND,01866-248660,2009-10-19,pok@yahoo.com,junior,1,11,16,N/A
+230359880,Augustine,Growcock,9166 Devon St #905,Knightsbridge and Belgravia,SW1W 8JY,01541-802635,1970-05-16,augustine.growcock@growcock.co.uk,standard,3,50,27,N/A
+659756688,Karma,Quarto,5344 Bengel St #5,Millwall,E14 5DR,01857-864722,1976-10-12,kquarto@gmail.com,standard,4,44,28,N/A
+777113513,Reed,Weisinger,9923 Dinorben St #4838,Childs Hill,NW11 8DY,01243-678286,1996-04-06,reed_weisinger@yahoo.com,HE-student,14,24,29,Other Mental Condition
+646742114,German,Zelaya,7643 Campbell St,Penge and Cator,BR3 1LT,01400-269033,2009-08-08,german@hotmail.com,junior,0,11,30,N/A
+543510486,Milly,Savidge,1779 Bird St,East Sheen,SW14 8JZ,01702-725589,2006-04-10,milly@gmail.com,volunteer,6,14,31,N/A
+120021053,Luis,Ear,7 Netley St,Custom House,E16 3DP,01462-648669,2000-08-01,luis@hotmail.com,standard,5,20,32,N/A
+412253428,Ciara,Cobbley,2 Prince Rupert St,West Wickham,BR3 6SX,01235-647932,1996-09-11,ciara_cobbley@hotmail.com,HE-student,5,24,33,N/A
+859296344,Alethea,Quarto,5344 Bengel St #5,Millwall,E14 5DR,01662-114247,2008-04-20,alethea@hotmail.com,junior,5,12,28,N/A
+621218237,Margurite,Loperfido,6452 Pilgrim St #5,Seven Sisters,N15 6TH,01407-866759,2013-03-20,mloperfido@gmail.com,junior,2,8,34,Autism Spectrum Disorder
+846230934,Vernice,Sperazza,70 Lilly Rd,Shirley,CR0 7PT,01822-563044,1973-10-08,vernice@yahoo.com,standard,1,47,35,N/A
+113446674,Vicente,Rawicki,5344 Bengel St #5,Millwall,E14 5DR,01327-770774,1940-04-10,vicente_rawicki@hotmail.com,standard,4,80,36,Hearing Impairment
+562174892,Craig,Cua,8388 Bessemer St #5,East Putney,SW15 2RP,01483-418969,1990-01-05,craig@hotmail.com,HE-student,10,31,37,N/A
+758413703,Jenise,Dulle,5382 Redfern St,West End,W1J 0QH,01709-854691,1998-11-05,jenise.dulle@hotmail.com,staff,2,22,38,Other Physical Condition
+621063063,Marylin,Cornelison,45 Bidder St #38,Town,EN1 3HT,01609-882184,1943-12-19,marylin_cornelison@yahoo.com,standard,1,77,39,N/A
+391022834,Marget,Gunst,227 Albert Terrace,Belvedere,DA17 6EF,01693-310794,2007-01-02,mgunst@yahoo.com,volunteer,1,14,40,N/A
+298663973,Annett,Bunselmeyer,464 Back Nile St #618,Acton Central,W3 6QJ,01891-702579,2002-03-08,abunselmeyer@hotmail.com,HE-student,1,19,41,N/A
+925968467,Kip,Turziano,4 Northbrook St #600,Edmonton Green,N18 2NF,01850-347846,2000-10-19,kip.turziano@yahoo.com,HE-student,3,20,42,N/A
+844858033,Melina,Orizabal,11 Tetlow St,Parsons Green and Walham,SW6 4QP,01420-307327,2007-01-19,melina@gmail.com,junior,5,14,43,Speech and Language Disability
+385399409,Tina,Clapham,6301 Dorset Rd,Harefield,UB9 6LF,01567-296442,1981-06-08,tclapham@gmail.com,standard,5,39,44,N/A
+206614889,Luisa,Devereux,22 Kilshaw St,Wimbledon Park,SW19 7DT,01607-269930,1958-09-03,ldevereux@gmail.com,standard,4,62,45,N/A
+980407596,Pedro,Aschoff,62 Euston St,Bunhill,EC1Y 8RT,01386-981141,2001-06-27,paschoff@yahoo.com,HE-student,2,19,46,N/A
+818337485,Carrol,Kunimitsu,67 Micawber St,Brockley,SE14 6RQ,01260-641258,1994-08-26,carrol_kunimitsu@yahoo.com,standard,3,26,47,N/A
